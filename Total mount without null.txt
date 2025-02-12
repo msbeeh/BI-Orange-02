@@ -1,0 +1,1 @@
+Total mount without null = if( ISBLANK( sum('Profit Table'[Total Amount])),0,Sum('Profit Table'[Total Amount]))
